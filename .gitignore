@@ -1,0 +1,4 @@
+# Ignore python caches and logs
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
