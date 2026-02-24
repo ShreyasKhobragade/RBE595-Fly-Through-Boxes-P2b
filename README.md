@@ -44,7 +44,7 @@ Leveraging the Turing cluster, the simulation streams the Python-based navigatio
 Here is the successful autonomous simulation flight executed by the quadrotor cleanly dodging the mapped obstacles:
 
 <div align="center">
-  <video src="assets/Video.mp4" width="100%" controls autoplay loop muted></video>
+  <img src="assets/Video.gif" width="100%" alt="Simulation Flight Video">
 </div>
 
 ---
